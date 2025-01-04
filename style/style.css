@@ -1,0 +1,40 @@
+body{
+    background-color:#441752;
+}
+div{
+    border: 6px double #A888B5;
+    margin: 40px;
+    padding: 100px;
+    background-color:#8174A0;
+}
+h1{
+    color: #001A6E;
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Times New Roman'
+}
+h2{
+    color:#001A6E
+}
+h3{
+    color:#001A6E
+}
+p{
+    text-align: left;
+    font-family: 'calibri (Body)';
+    font-size: 130%;
+    color:#074799;
+}
+table,th,td{
+    border: 2px solid
+}
+table, th:hover{
+    color: #074799;
+}
+tr:hover{
+    background-color: bisque;
+}
+.c{
+    background-color:#441752;
+    color:#D3D3D3;
+}

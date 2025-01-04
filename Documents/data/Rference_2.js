@@ -1,0 +1,1 @@
+var json_Rference_2 = {"type":"FeatureCollection","name":"Rference_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nom":"GARE AGDAL","X":365097.554,"Y":378980.086,"Info":null},"geometry":{"type":"Point","coordinates":[-6.85911380653507,34.001199541652973]}}]}
